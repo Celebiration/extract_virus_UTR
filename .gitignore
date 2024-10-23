@@ -1,0 +1,14 @@
+/.ipynb_checkpoints
+/genbank_2022_07_27/*
+/ncbi_before_2019_10_1/*
+/refseq_2022_07_27/*
+*.fasta
+dup*
+/extract_virus_utr.ipynb
+/genome_assemblies_genome_gb_Genbank.tar
+/genome_assemblies_genome_gb_RefSeq.tar
+/git_push.log
+/LncBook_Version2.0_bug.gtf
+/ncbi_all_out.txt
+/refseq_all_out.txt
+/SGD_5utr_20_30_out.fasta.clstr
